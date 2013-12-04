@@ -52,29 +52,30 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #212121;
-  font-size: 14px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  line-height: 1.25;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.0;
   -webkit-font-smoothing: antialiased;
+  margin: 0 0 16px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: Arvo, Monaco, serif;
-  letter-spacing: -1px;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  /*letter-spacing: -1px;*/
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 36px;
   font-weight: 700;
 }
 
 h2 {
   padding-bottom: 10px;
-  font-size: 28px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+  font-size: 32px;
+  /* background: url('../images/bg_hr.png') repeat-x bottom;*/
 }
 
 h3 {
@@ -82,7 +83,7 @@ h3 {
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 21px;
 }
 
 h5 {
@@ -90,17 +91,20 @@ h5 {
 }
 
 h6 {
-  font-size: 14px;
+  font-size: 16px;
 }
+
 
 p {
-  margin: 10px 0 15px 0;
+  margin: 0 0 16px 0;
 }
 
+
+/* Added for smaller size font with a little padding */
 .small {
-  font-size:12px;
+  font-size: 14px;
+  line-height: 1.25;
 }
-
 footer p {
   color: #f2f2f2;
 }
@@ -199,19 +203,31 @@ blockquote {
   border-left: 3px solid #bbb;
 }
 
+/* Use this for where I need a link to a resource but don't have it yet.*/
+.red {
+  color:#990033;
+}
 
 ul, ol, dl {
   margin-bottom: 15px
 }
 
 ul {
-  list-style: inside;
-  padding-left: 0px;
+  list-style: outside;
+  /* Changed from 20*/
+  padding-left: 25px;
+  /* reduced size */
+
 }
 
 ol {
   list-style: decimal inside;
   padding-left: 20px;
+}
+
+/* Added*/
+li {
+  padding-bottom: 15px;
 }
 
 dl dt {
@@ -395,27 +411,27 @@ Small Device Styles
   }
 
   h1 {
-    font-size: 32px;
-  }
-
-  h2 {
     font-size: 28px;
   }
 
-  h3 {
+  h2 {
     font-size: 24px;
   }
 
+  h3 {
+    font-size: 21px;
+  }
+
   h4 {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   h5 {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   h6 {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   code, pre {
