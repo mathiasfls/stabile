@@ -5,7 +5,7 @@ Everything you do in analyzing and creating a dataset should be done with an eye
 
 There are three kinds of errors that can seep into your data reporting:
 * Your errors. These are the most common kinds and include things like improper importing, typos and bad formulas or queries. Make sure you haven't made one before you go to the next step.
-* Their errors. These can include anything from corrupt files to missing pages in documents or sloppy data entry or data collection.  (One common mistake: the 65,536-row spreadsheet. It was the limit of the number of rows allowed in Excel until 2007, which is still respected by other programs that output an Excel file.)
+* Their errors. These can include anything from corrupt files to missing pages in documents or improperly redacted information that is crucial to your story. (One common mistake: the 65,536-row spreadsheet. It was the limit of the number of rows allowed in Excel until 2007, which is still respected by other programs that output an Excel file.)
 * Interpretation errors. The data is adequate for your purposes, but you don't understand its provenance, its original use and its limitations well enough to interpret it accurately.
 
 Tips for accuracy when creating your own data:
@@ -18,8 +18,8 @@ Tips for accuracy when using data from elsewhere:
 * Check each field to see how often it's filled out and whether it's filled out consistently. 
 * Look for impossible or improbable combinations: babies with driving records, or old people in elementary school amounts in billions when everything else is in millions.
  * Look at distributions and other summary statistics for each numeric column.
-* Look at counts of every value for text.
-* Do time series charts. (Example)
+* Look at counts of every value for text. Are there codes that should be in your data that have no records? Are they consistent? Do they seem reasonably accurate?
+* Do time series charts. Look at spikes, missing months or years. (Example)
 * Try to find a benchmark you can check against, like a total or another report that analyzed something similar. See if you can match them, then you'll be more confident that you have gotten it right.
 
 Don't assume anything. Most data you use won't be used for its original purpose. You're the first one doing this analysis, so you have to be extra careful.
@@ -31,14 +31,14 @@ You will quite often do much of your work on a preliminary copy of the data, the
 The best way to do this is to learn a programming language, which is self-documenting, and comment it extensively while you keep a separate file that documents the questions and reporting you've done around the data. If you're working in Excel or another point-and-click application, I suggest keeping two documents: One that keeps your processing notes (details about the source of the data and any processing you did and why); and one that keeps your reporting around the data (who you spoke with to get clarifications and explanations, what you saw in documents that led you to believe something).
 
 
-Part 3: Flexibility
+Part 3: Flexibility and problems in spreadsheets
 Spreadsheets are the most common way to create and distribute data. But they suffer from too much freedom and not enough discipline. If you use a spreadsheet, try to keep it as close to a strict data structure as possible:
 
-* Create a data table area, which means that the columns are all contiguous and there are blank columns and rows between it and anything outside of it, like totals or notes.
+* Create a data table area, which means that the columns are all contiguous and there are blank columns and rows between it and anything outside of it, like totals or notes. (Example)
 * Use computer-friendly column names even if they're not that descriptive. A computer-friendly column name has no spaces or special characters like quotes or asterisks. Underscores are preferred over dashes.
-* Each column holds the same kind of data: a dollar amount, a zip code, a street address, a date. Put nothing else in those columns and leave anything you don't know blank. If you need to indicate that you're not sure, add a column with an "X" whenever you need to check it rather than putting a question mark next to the value. 
+* Each column holds the same kind of data: a dollar amount, a zip code, a street address, a date. Put nothing else in those columns and leave anything you don't know blank. If you need to indicate that you're not sure, add a column with an "X" whenever you need to check it rather than putting a question mark next to the value.  (Example)
 * Separate values as much as practical. Consider using separate columns for last name and the rest of the name. Maybe split dates into month, day and year if you're not sure you will know them exactly. Enter city, state and zip code separately. It's a lot easier to put together fields than it is to split them apart. This can get annoying, so you'll have to balance the trade-offs.
 * Be consistent. If you decide to enter names in Last, First Middle Suffix, don't switch in the middle. 
-* Use formatting to widen and lengthen cells, color to highlight and not to mean something. I once got a dataset in which the only indication that an application was rejected was that it was highlighted in red. That was a pain.
+* Use formatting to widen and lengthen cells, color to highlight and not to mean something. (Example) I once got a dataset in which the only indication that an application was rejected was that it was highlighted in red. That was a pain. 
 
 
