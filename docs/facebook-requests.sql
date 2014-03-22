@@ -39,7 +39,7 @@ CREATE TABLE fb_requests (
 );
 
 LOAD DATA LOCAL INFILE
-'c:/users/rob/dropbox/work/active/stabile/data/raw/fb/facebook-government-requests.csv'
+'/path/to/file/facebook-government-requests.csv'
 INTO TABLE fb_requests
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES;
 
@@ -51,7 +51,7 @@ CREATE TABLE fb_users (
 );
 
 LOAD DATA LOCAL INFILE
-'c:/users/rob/dropbox/work/active/stabile/data/raw/fb/facebook-users-by-country.csv'
+'/path/to/file/facebook-users-by-country.csv'
 INTO TABLE fb_users
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 LINES;
 
