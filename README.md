@@ -4,8 +4,6 @@ Stabile Reporting Program
 Fall 2014-Spring 2015.<br>
 Sarah Cohen / sarah.cohen@nytimes.com / @sarahcnyt
 
-Computer-Assisted Reporting class, Stabile investigative reporting program, Spring 2014
-
 NOTE: When you try to download the documents liniked here, choose the "Raw" format. That will work on pdfs, spreadsheets and other proprietary formats.
 
 ## Numbers in the Newsroom ##
