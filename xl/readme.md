@@ -9,6 +9,8 @@
 
 [Best practices](bestpractices_v2.pdf) goes over the idea of tidy data and what it means
 
+The lecture notes for the [Excel refresher](https://github.com/sarahcnyt/stabile/blob/master/xl/lecturenotes-xlrefresher.md) and for [best practices](https://github.com/sarahcnyt/stabile/blob/master/xl/lecturenotes-tidydata.md) are also in the folder.
+
 ### Examples ###
 
 [Bad spreadsheet examples](bad-spreadsheet-examples.xlsx) has some examples of how we actually get data from government, and lets you imagine some differences.
