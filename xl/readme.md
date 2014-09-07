@@ -14,3 +14,9 @@ This folder has examples and handouts for Excel practice.
 [Bad spreadsheet examples](bad-spreadsheet-examples.xlsx) has some examples of how we actually get data from government, and lets you imagine some differences.
 
 [Highly paid employees](nysupremect-highpayroll-nybrooklyn.xlsx) of the state Supreme Court in Manhattan and Brooklyn, 2013. Courtesy of SeeThroughNY.
+
+### Video refreshers ###
+Feel free to look over the videos produced for last semester's Stabile program
+
+* Spreadsheet [best practices](https://www.youtube.com/playlist?list=PL-Je9dqyEF8YS7Cy8BppKg5zrhiQC__n6) series
+* [Advanced Excel series](https://www.youtube.com/playlist?list=PL-Je9dqyEF8aBMPIHRtYdwuodsgJzIGpI), including pivot tables, filtering and using tables.
