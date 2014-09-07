@@ -1,4 +1,4 @@
-This folder has examples and handouts for Excel practice. 
+[This folder](https://github.com/sarahcnyt/stabile/tree/master/xl) has examples and handouts for Excel practice. 
 ### Handouts ###
 
 [Get to Know Excel](XLGetKnow.pdf) is a really old handout, but still useful for getting used to the program
