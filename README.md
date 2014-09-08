@@ -12,7 +12,7 @@ NOTE: When you try to download the documents liniked here, choose the "Raw" form
 September 2014 <br>
 
 * [Misplaced Trust](https://dl.dropboxusercontent.com/u/26514347/story_pdfs/guardians.pdf), the story from The Washington Post from probate court in DC.
-* [Slides]() from class, including links to selected stories.
+* [Slides](http://slides.com/sarahcnyt/investigative-spine) from class, including links to selected stories.
 
 
 ## Excel refresher and best practices ##
