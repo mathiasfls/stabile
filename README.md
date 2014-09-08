@@ -21,6 +21,7 @@ Look in the xl folder in this repo. All of the handouts are there, along with [t
 
 ## Numbers in the Newsroom ##
 August, 2014<br>
+
 * E-mail me or ask Prof. Muha for the handout / book. It won't be posted publicly.
 * Here is the [slide show](http://slides.com/sarahcnyt/numbers-in-the-newsroom/#/), for what it's worth.
 
