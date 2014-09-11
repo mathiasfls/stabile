@@ -1,4 +1,9 @@
 [This folder](https://github.com/sarahcnyt/stabile/tree/master/xl) has examples and handouts for Excel practice. 
+
+### For advanced Excel skills###
+* [Cell phone](cellphones.xlsx?raw=true) records example.
+
+I'll post some handouts going over what we have done.
 ### Handouts ###
 
 [Get to Know Excel](XLGetKnow.pdf) is a really old handout, but still useful for getting used to the program
