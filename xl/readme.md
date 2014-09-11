@@ -1,10 +1,17 @@
 [This folder](https://github.com/sarahcnyt/stabile/tree/master/xl) has examples and handouts for Excel practice. 
 
 ### For advanced Excel skills###
+* A great practice dataset: [Major League baseball salaries](mlb2011.xlsx?raw=true) from IRE.
+
 * [Cell phone](cellphones.xlsx?raw=true) records example.
 
-I'll post some handouts going over what we have done.
+* [Supreme court payroll](nysupremect-highpayroll-nybrooklyn.xlsx?raw=true) (again)
+
 ### Handouts ###
+
+[My Favorite (Excel) Things](3346.pdf?raw=true) from Mary Jo Webster.
+
+[IRE's data analysis](PivotTablesJD.docx?raw=true) handout from Jaimi Dowdell.
 
 [Get to Know Excel](XLGetKnow.pdf) is a really old handout, but still useful for getting used to the program
 
