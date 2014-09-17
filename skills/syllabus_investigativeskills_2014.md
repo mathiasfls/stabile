@@ -1,7 +1,7 @@
 # Syllabus
 
 Investigative Skills  
-Instructor: Sarah Cohen / [sarah.cohen@nytimes.com](mailto:sarah.cohen@nytimes.com) / 212.556.8027 (w)   
+Instructor: Sarah Cohen / [sc3595@columbia.edu](mailto:sc3595@columbia.edu) / 212.556.8027 (w)   
 Wednesdays 6-9pm, Sep. 17-Oct. 15 2014
 
 **Course description**: This class will introduce students the "documents state of mind" that is a hallmark of great investigative reporting. This outlook is used to shed light on secretive governments, detail the inner workings of a company, and find the right individuals to lead you to stories.
