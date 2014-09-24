@@ -1,6 +1,6 @@
 ## Preliminary course schedule
 
-As of Sept. 14, 2014. Guest speakers may be added.  
+As of Sept. 21, 2014.  
 
 ### Class #1 (September 17): A documents state of mind###
 
@@ -30,17 +30,17 @@ As of Sept. 14, 2014. Guest speakers may be added.
 1. Background a person in class online.  
 2. Background a building in class online.
 
-####Due Sunday, Sep. 27 by 11:55pm.
+**Due *Sunday, Sep. 27* by 11:55pm.**
 
 1. Read all of the beat stories in for the next class (below). Select one for your reflections. 
 
-2. Spend only one more hour on your backgrounding exercise, and turn in what you found on the assignment in Courseworks. 
+2. Spend up to one more hour on your backgrounding exercise, and turn in what you found on the assignment in Courseworks. 
 
 ### Class #3 (October 1): Beat reporting ###
 
 **Topics** Typical public affairs and specialty beats that the records that go with them / strategies for understanding and preparing for public records on your beat / Cultural and international issues in public records. Beats include: crime/courts; government and politics; business; health care; education
 
-<p style="text-decoration:underline;font-weight:bold;">Reading before class</p>
+**Read *before* class (by Sunday Sep 27)**
 
 * "[In the Line of Fire](http://www.219mag.com/in-the-line-of-fire/)," by CUNY graduate students (IRE finalist 2013), on innocent bystanders.
 * "[Inside the Hidden World of Thefts...](http://www.washingtonpost.com/investigations/inside-the-hidden-world-of-thefts-scams-and-phantom-purchases-at-the-nations-nonprofits/2013/10/26/825a82ca-0c26-11e3-9941-6711ed662e71_story.html)", Washington Post on non-profits. 

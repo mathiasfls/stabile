@@ -47,15 +47,22 @@ Reasons to have to background  on deadline:
 * Write about a previously unknown person who is thrust into the news.  
 * Write about an event that intersects with government agencies (virtually all of them do): plane crashes; bridge failures; mass shootings; oil spills, etc.
 
-We'll concentrate on backgrounding people today. I want to walk through a couple of sources that are a little difficult to navigate if you never have before: 
+Advanced Nexis and Factiva searching.  
 
-* Property records - using NYC finance dept.
-* Court records - using NY State WebCivil.
+Strategies:
 
-Also go through the good way to search Nexis: more precise than Google. 
+* Use Doug Haddix's [librarian checklist](http://ire.org/resource-center/tipsheets/3716/) from his presentation.
+* Answer questions:
+	* What do they say about themselves? (People, organization, agency, etc.)
+	* What do others say about them?
+	* What is left out?
+	* What's confirmed or untrue?
 
-Then go through a strategy for outside-in reporting: 
+Outside-in reporting: 
 
+
+* As quickly as possible, identify all names used (middle, maiden, etc.) and DOB. You need this to know whether you  are likely talking about the same John Smith. 
+* Nexis / Factiva search
 * Social media accounts
 * Nexis / Google News / Google Scholar
 * Advanced Google search
@@ -63,15 +70,17 @@ Then go through a strategy for outside-in reporting:
 
 Now move to public records:
 
-* As quickly as possible, identify all names used (middle, maiden, etc.) and DOB. 
-* Use Doug Haddix's [librarian checklist](http://ire.org/resource-center/tipsheets/3716/) from his presentation.
+We'll concentrate on backgrounding people today. I want to walk through a couple of sources that are a little difficult to navigate if you never have before: 
+
+* Property records - using NYC finance dept.
+* Court records - using NY State WebCivil.
 
 Record what you've done and what you haven't -- what can you publish and what can't you? 
 
 * Spreadsheet with source, link, etc. In the best of all worlds, you would print the copy of the web page to a PDF file, keep in on hand. Web sites change, especially social media sites that are associated with suddenly famous people. Record what you can publish, what needs confirmation, what is off the record or against your news organization's rules (we don't re-publish information from other news organizations without permision).
 
 * Don't get side-tracked. You need to stay focused on what you are doing TODAY. Leave the deep research for another day.
-	
+
 
 ### Section 4: In class
 We'll do an exercise of backgrounding in an hour. We'll see where we are at the end of class -- I want everyone to feel like they got some experience without getting overwhelmed. I may ask them to spend 1 more hour (not more than that) and then turn it in. 
