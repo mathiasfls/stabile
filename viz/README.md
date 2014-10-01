@@ -31,7 +31,7 @@ Most reporters, as opposed to those who produce visualizations for publication, 
 
 * [Wordseer](http://wordseer.berkeley.edu/wordseer-3-0-blog/). I haven't tried this yet -- it's just recently available to the general public. But I've seen demos and it looks interesting. 
 
-* Although it's not really visualization, [ClearForest Gnosis](https://addons.mozilla.org/en-US/firefox/addon/clearforest-gnosis/), a plug-in for Mozilla, is helpful for color-coding the entities on your documents. Search for it in the Firefox plug-ins. [Here's]) what one of the Wikileak cables looks like once you have it installed.   You can use it on documents on your hard drive loaded into your browser.
+* Although it's not really visualization, [ClearForest Gnosis](https://addons.mozilla.org/en-US/firefox/addon/clearforest-gnosis/), a plug-in for Mozilla, is helpful for color-coding the entities on your documents. 
 
 There are a lot of other text visualization experiments in the digital humanities, especially history, linguistics and literature graduate programs. Keep an eye on the projects at the [Digital Research Tools](http://dirtdirectory.org/categories/visualization) site, which is constantly updated.
 
