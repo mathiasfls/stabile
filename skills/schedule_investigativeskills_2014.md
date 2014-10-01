@@ -1,3 +1,5 @@
+**Note: to print this, replace the "github" part of the url above with "gitprint".**
+
 ## Preliminary course schedule
 
 As of Sept. 21, 2014.  
@@ -49,20 +51,20 @@ As of Sept. 21, 2014.
 
 Post your comments on one of these stories in the assignment on Courseworks by 11:55pm Sunday. 
 
-**In class** Choose an agency that you might have as a beat, find a public record and begin writing a proper FOI or public records request for a standard type of record that we discuss in class.
+**In class** Choose an agency that you might have as a beat, find a public record and begin writing a proper FOI or public records request.
 
 Finish this assignment and submit the public records request by **Sunday, Oct 5 by 11pm**
 
 ### Class #4 (October 8): Project and enterprise reporting 
 **Topics** From idea to records / Strategies in public records requests / Following the paper trail 
 
-**Reading**: 
+**Read *before* class**: 
+This week, instead of writing your reflections on one of the stories, compare the types of documentation used in each of these examples. Give specifics. (Still only a few paragraphs) 
 
-- Chapter 13 (XIII) of [_10 Days in the Madhouse_](http://dlib.nyu.edu/undercover/sites/dlib.nyu.edu.undercover/files/documents/uploads/editors/Ten_Days_In_A_Madhouse_0.pdf)_,_ by Nellie Blye, 1887.
-- "At State-Run Homes, Abuse and Impunity," by Danny Hakim, New York Times, March 12, 2011.
-- "Collapse into Chaos" by Alberto Arce, on Honduran death squads, May 22, 2013. (Corrected version, fixing the middle name of one of the primary actors, was published May 1.) To read how the story was reported, see the IRE contest entry.  This is an example of how to get records when there are none.
-- More tk
-
+- Chapter 13 (XIII) of [10 Days in the Madhouse](http://dlib.nyu.edu/undercover/sites/dlib.nyu.edu.undercover/files/documents/uploads/editors/Ten_Days_In_A_Madhouse_0.pdf),_ by Nellie Blye, 1887.
+- "[At State Run Homes, Abuse and Impunity](http://www.nytimes.com/2011/03/13/nyregion/13homes.html)," by Danny Hakim, The New York Times, March 2011 
+- "[Collapse into Chaos](http://ire.org/resource-center/stories/26389/download/?fileid=64653)" (link to IRE copy) by Alberto Arce, on Honduran death squads, May 22, 2013. This is an example of how to get records when there are none.
+ 
 ###Class #5 (Wednesday, October 15): Finding, requesting and negotiating for public record databases
 
 (Joint class with the Stabile students)
