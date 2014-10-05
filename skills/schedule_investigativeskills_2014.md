@@ -53,13 +53,13 @@ Post your comments on one of these stories in the assignment on Courseworks by 1
 
 **In class** Choose an agency that you might have as a beat, find a public record and begin writing a proper FOI or public records request.
 
-Finish this assignment and submit the public records request by **Sunday, Oct 5 by 11pm**
+Finish this assignment and submit the public records request by **Sunday, Oct 5 by 11:55pm**
 
 ### Class #4 (October 8): Project and enterprise reporting 
 **Topics** From idea to records / Strategies in public records requests / Following the paper trail 
 
 **Read *before* class**: 
-This week, instead of writing your reflections on one of the stories, compare the types of documentation used in each of these examples. Give specifics. (Still only a few paragraphs) 
+While reading these pieces, keep an eye on the kinds of proof used. What are the advantages and disadvantages of each? We'll discuss, but you don't have to write anything. 
 
 - Chapter 13 (XIII) of [10 Days in the Madhouse](http://dlib.nyu.edu/undercover/sites/dlib.nyu.edu.undercover/files/documents/uploads/editors/Ten_Days_In_A_Madhouse_0.pdf),_ by Nellie Blye, 1887.
 - "[At State Run Homes, Abuse and Impunity](http://www.nytimes.com/2011/03/13/nyregion/13homes.html)," by Danny Hakim, The New York Times, March 2011 
