@@ -1,4 +1,17 @@
-# XPATH examples
+# More on scraping
+
+## more tools
+* Outwit hub (now about $50, but powerful)
+* Kimono (a little creepy - they keep tabs of what you are doing and keep asking to help. I've also found it doesn't work a lot. I've had trouble with the simplest things.)
+* import.io - said to be the easiest out there, but I've had trouble using it. 
+
+By the time I get through trying to learn a tool, I might as well have learned to program it. Key parts of Python that will help with difficult sites:
+
+* Scrapy - a whole library of scraping tools that has its own manual and syntax. I think this one uses XPath though, so it will be easier to incorporate that in.
+* Selenium, for when you need to actually run a browser. 
+* 
+
+Building on the tutorial that is at the http://sarahcnyt.github.io/ire-toronto site
 
 These examples came up recently and I needed to memorialize it for myself.  It's just to help me remember.
 
