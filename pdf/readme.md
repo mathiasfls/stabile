@@ -28,13 +28,11 @@ There are also PDF plug-ins to Ruby and Python, which can sometimes work just fi
 ###When free isn't good enough
 Most of the pay products have two levels: one if you don't need to OCR, and another if you do. If you're going to pay, you might as well get the OCR. It's not that much more and you'll eventually need it.  Sometimes it's worth seeing if you can pay just a little more than that for what's called "batch" conversion, or "hot folders." That means that when you get 10,000 pdfs zipped up into one file, you won't have to individually convert them all.
 
-Rob Barry created [this tutorial](http://sarahcnyt.github.io/stabile/docs/extracting-images.pdf) using ABBYY to extract information from even the most difficult forms. 
-
-In order of difficulty and cost:
+Rob Barry created [this tutorial](extracting_image_pdfs.pdf) using ABBYY to extract information from even the most difficult forms. 
 
 *[Able2Extract](http://www.investintech.com/order_main.htm): $99.95 for non-OCR/ $129.95 for OCR. Intuitive and reasonably accurate. It has some annoyances, but saving as a text file often overcomes them (rather than going directly to Excel).
 
-*[ABBYY FineReader](http://finereader.abbyy.com/) Also $99.99 for personal use. Rob had a great tutorial on this. In terms of speed, ease of use and accuracy, it's probably the best investment. It will also work very well on documents that have been scanned to turn them into searchable PDFs. 
+*[ABBYY FineReader](http://finereader.abbyy.com/) Also $99.99 for personal use, available for Mac and Windows. Includes OCR.
 
 *[OmniPage](http://www.nuance.com/for-individuals/by-product/omnipage/index.htm), $149.99 for individuals. This one is just slightly more powerful, but I've had better luck with it over time. The constant upgrades are really a pain.  (Windows only)
 
