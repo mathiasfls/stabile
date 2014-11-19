@@ -7,7 +7,7 @@ Sarah Cohen / sarah.cohen@nytimes.com / @sarahcnyt
 NOTE: When you try to download the documents linked here, choose the "Raw" format. That will work on pdfs, spreadsheets and other proprietary formats.
 
 ## Nov. 19: Scraping and PDFs
-* A PDF handout under docs
+* A [PDF handout](tree/master/pdf) under "PDF" folder. That folder also contains a couple of good examples of pdfs that have to be converted to Excel for practice. 
 * [A tutorial on XPATH using Google Chrome](http://sarahcnyt.github.io/ire-toronto) scraper (we'll use this in class). It also includes a list of some of the more common scraping tools that would take you further.
 
 ## What is CAR? ##
