@@ -29,8 +29,7 @@ We'll be working with some sample data donated by Maggie Mulvihill at Boston Uni
 Start OpenRefine and see.....nothing. 
 
 Actually, you'll see something like this. 
-![](images/startup.jpg =200)
-
+![](images/startup.jpg =200x)
 Don't close that window even though you won't use it -- it's powering the application.
 
 
@@ -40,7 +39,7 @@ If you have a browser open, a new page should appear shortly. If not, a browser 
 
 The opening page lets you load a previously or start a new project. We'll do that.
 
-![](images/coverpage.jpg = 250)
+![](images/coverpage.jpg = 250x)
 
 For this, I'm using the file called employees.xlsx from the exampledata folder. 
 
