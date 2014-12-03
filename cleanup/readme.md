@@ -29,7 +29,8 @@ We'll be working with some sample data donated by Maggie Mulvihill at Boston Uni
 Start OpenRefine and see.....nothing. 
 
 Actually, you'll see something like this. 
-![](images/startup.jpg)
+![](images/startup.jpg =200)
+
 Don't close that window even though you won't use it -- it's powering the application.
 
 
