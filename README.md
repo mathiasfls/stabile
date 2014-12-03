@@ -5,6 +5,10 @@ Fall 2014-Spring 2015.<br>
 Sarah Cohen / sarah.cohen@nytimes.com / @sarahcnyt
 
 NOTE: When you try to download the documents linked here, choose the "Raw" format. That will work on pdfs, spreadsheets and other proprietary formats.
+## Dec. 3: Cleaning data with OpenRefine
+The materials are under the "[cleanup](https://github.com/sarahcnyt/stabile/tree/master/cleanup)" folder above. This returns to one of the earliest sessions we had this semester: tidy data. Most data you get isn't tidy. OpenRefine can help.
+
+If you get good at it, you can use it to do some of the scraping that we couldn't do with the simple Chrome tool.
 
 ## Nov. 19: Scraping and PDFs
 * A [PDF handout](https://github.com/sarahcnyt/stabile/tree/master/pdf) under "PDF" folder. That folder also contains a couple of good examples of pdfs that have to be converted to Excel for practice. 
