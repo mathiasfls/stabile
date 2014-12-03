@@ -39,7 +39,7 @@ If you have a browser open, a new page should appear shortly. If not, a browser 
 
 The opening page lets you load a previously or start a new project. We'll do that.
 
-![](images/coverpage.jpg)
+![](images/coverpage.jpg = 250)
 
 For this, I'm using the file called employees.xlsx from the exampledata folder. 
 
