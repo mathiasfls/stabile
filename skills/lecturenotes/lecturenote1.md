@@ -65,6 +65,9 @@ Let's list primary vs. secondary sources you came up with, along with the class'
 * What's covered in public records laws?
 * Where do you find records, and how do you know what to ask for?
 
+[Presentation](../resources/federal-foia-basics.pptx) for class, or with notes in a [pdf](federal-foia-basics.pdf)
+
+
 
 ### Maybe: Planning and conceiving an investigative story
 
