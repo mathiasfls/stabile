@@ -46,12 +46,6 @@ Think of a block with 4 squares
 		In private hands		***In govt hands, 
 		publicly accessible		avail for public inspection***
 
-### Understanding Freedom of Information laws
-* National vs. state records - where to file.
-* What's covered in public records laws?
-* Where do you find records, and how do you know what to ask for?
-* 
-
 
 #### reading 
 Bell, Calif: Discuss the idea of standard records that people can look at. If no one is watching, what happens? 
@@ -64,6 +58,22 @@ After review: Which of these would you consider "reliable" sources? Are some wha
 
 Let's list primary vs. secondary sources you came up with, along with the class's perceived reliability.
 
+
+### Understanding Freedom of Information laws
+(In the realm of: in govt hands, available for public inspection. Often NOT available on the website.)
+* National vs. state records - where to file.
+* What's covered in public records laws?
+* Where do you find records, and how do you know what to ask for?
+
+
+### Maybe: Planning and conceiving an investigative story
+
+* Compared to what?
+* Minimum / maximum evaluation
+* Impact vs. difficulty
+* Victims
+
+[Slide show](http://slides.com/sarahcnyt/columbia-skills#/22)
 
 #### Strategy
 Strategy for thinking about how to document an event, a person, an organization or a trend:
