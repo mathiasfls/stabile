@@ -1,4 +1,5 @@
-Lecture notes, Sept. 17
+### lecture notes
+Wednesday, April 1 2015 (no fooling)
 
 ####Introductions
 
@@ -30,11 +31,27 @@ Topics:
 	* often form-based, so more consistent.
 
 
-Private vs. public vs. non-existent.
+##### Private vs. public vs. non-existent.
 
 * What is a record? What isn't a record? 
 * Private vs. government records
 * Government vs. public records
+
+Think of a block with 4 squares
+
+    
+    	In private hands, 		In govt hands, 
+		confidential			confidential
+		
+		In private hands		***In govt hands, 
+		publicly accessible		avail for public inspection***
+
+### Understanding Freedom of Information laws
+* National vs. state records - where to file.
+* What's covered in public records laws?
+* Where do you find records, and how do you know what to ask for?
+* 
+
 
 #### reading 
 Bell, Calif: Discuss the idea of standard records that people can look at. If no one is watching, what happens? 
