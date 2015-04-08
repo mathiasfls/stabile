@@ -35,8 +35,9 @@ As of March 29, 2015
 
 ---
 
-* Fill in about 10-15 "facts" found about your subject, including their reliabilty and exact source. You can use this Google Sheet as an example (you may want to use Excel -- I would -- but either one is fine with me.)
-*  Use this resources handout to help you determine where to look for your background. 
+* Fill in about 10-15 "facts" found about your subject, including their reliabilty and exact source. You can use [this Google Sheet](https://docs.google.com/a/columbia.edu/spreadsheets/d/1bdhogOnOEtV0mU9Yh_FLLx2eIvfnRbVCvS7YPOvDfpg/edit?usp=sharing) as an example -- it's accessible only through your Columbia Google gmail account. You can use Google sheet or Excel -- it doesn't matter to me.
+*  Use [this resources handout](../resources/backgrounding.md) to help you determine good sources.
+*  Don't forget to start with the obvious: a targeted search on Nexis and Factiva, using the proximity searches to find only full names and the lede paragraph/length/xtimes delimiters to make sure it's really about that person. 
 
 
 
