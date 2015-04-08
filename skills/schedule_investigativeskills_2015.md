@@ -16,7 +16,8 @@ As of March 29, 2015
 **In class**: Introductions / Your life in records / Confirming claims through records.
 
 ### Class #2 (April 8): Backgrounding on deadline ###
-[lecture notes]/(lecturenotes/lecturenotes2.md)
+[lecture notes](lecturenotes/lecturenotes2.md)
+
 **Topics**: Typical records used in backgrounding on deadline / what's online and what isn't / resources for finding records far away / mistaken identity and verification / the special case of court records, esp. in New York.
 
 **Read *before* class:**
@@ -33,6 +34,8 @@ As of March 29, 2015
 2. Background a person in class online.
 
 [Resources for backgrounding](resources/backgrounding.md)
+
+
 ---
 
 * Fill in about 10-15 "facts" found about your subject, including their reliabilty and exact source. You can use [this Google Sheet](https://docs.google.com/a/columbia.edu/spreadsheets/d/1bdhogOnOEtV0mU9Yh_FLLx2eIvfnRbVCvS7YPOvDfpg/edit?usp=sharing) as an example -- it's accessible only through your Columbia Google gmail account. You can use Google sheet or Excel -- it doesn't matter to me.
