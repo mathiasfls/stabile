@@ -16,6 +16,7 @@ As of March 29, 2015
 **In class**: Introductions / Your life in records / Confirming claims through records.
 
 ### Class #2 (April 8): Backgrounding on deadline ###
+[lecture notes](lecturenotes/lecturenotes2.md)
 
 **Topics**: Typical records used in backgrounding on deadline / what's online and what isn't / resources for finding records far away / mistaken identity and verification / the special case of court records, esp. in New York.
 
@@ -31,6 +32,7 @@ As of March 29, 2015
 
 1. Guest speaker: Agustin Armendariz, on uncovering connections through Internet metadata
 2. Background a person in class online.
+<<<<<<< HEAD
 
 
 **Homework due Sunday, April 12, 11:55pm**
@@ -45,6 +47,12 @@ As of March 29, 2015
 
 *Reading*
 Read one of the stories listed for next week, and write 2-3 paragraphs about the sources they used. Some are discussed in the story. Others might be provided in IRE contest entries or IRE tip sheets.
+
+
+**Due *Sunday, April 12* by 11:55pm.**
+
+1. Read all of the beat stories in for the next class (below). Select one for your reflections. 
+2. Spend up to one more hour on your backgrounding exercise, and turn in what you found on the assignment in Courseworks. 
 
 
 ### Class #3 (April 15): Beat reporting ###
