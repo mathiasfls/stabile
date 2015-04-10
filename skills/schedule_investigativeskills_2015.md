@@ -46,6 +46,7 @@ As of March 29, 2015
 *  Don't forget to start with the obvious: a targeted search on Nexis and Factiva, using the proximity searches to find only full names and the lede paragraph/length/xtimes delimiters to make sure it's really about that person. You can use [this old handout from Duke](https://github.com/sarahcnyt/stabile/blob/master/skills/resources/backgrounding.md) as a guide to the different search commands I demonstrated in class.
 
 *Reading*
+
 Read one of the stories listed for next week, and write 2-3 paragraphs about the sources they used. Some are discussed in the story. Others might be provided in IRE contest entries or IRE tip sheets.
 
 
