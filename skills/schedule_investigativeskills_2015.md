@@ -33,22 +33,24 @@ As of March 29, 2015
 2. Background a person in class online.
 
 
----
+**Homework due Sunday, April 12, 11:55pm**
+
+*Spreadsheet backgrounding your person*
 
 * Fill in about 10-15 "facts" found about your subject, including their reliabilty and exact source. You can use [this Google Sheet](https://docs.google.com/a/columbia.edu/spreadsheets/d/1bdhogOnOEtV0mU9Yh_FLLx2eIvfnRbVCvS7YPOvDfpg/edit?usp=sharing) as an example -- it's accessible only through your Columbia Google gmail account. You can use Google sheet or Excel -- it doesn't matter to me.
-*  Use [this resources handout](../resources/backgrounding.md) to help you determine good sources.
-*  Don't forget to start with the obvious: a targeted search on Nexis and Factiva, using the proximity searches to find only full names and the lede paragraph/length/xtimes delimiters to make sure it's really about that person. 
 
+*  Use [this resources handout](../resources/backgrounding.md) to help you determine good sources. The one from Doug Haddix on this list is really good. The one from Jaimi Dowdell is particularly geared at the "deep web".
 
+*  Don't forget to start with the obvious: a targeted search on Nexis and Factiva, using the proximity searches to find only full names and the lede paragraph/length/xtimes delimiters to make sure it's really about that person. You can use [this old handout from Duke](https://github.com/sarahcnyt/stabile/blob/master/skills/resources/backgrounding.md) as a guide to the different search commands I demonstrated in class.
 
-
-**Due *Sunday, April 12* by 11:55pm.**
-
-1. Read all of the beat stories in for the next class (below). Select one for your reflections. 
-2. Spend up to one more hour on your backgrounding exercise, and turn in what you found on the assignment in Courseworks. 
+*Reading*
+Read one of the stories listed for next week, and write 2-3 paragraphs about the sources they used. Some are discussed in the story. Others might be provided in IRE contest entries or IRE tip sheets.
 
 
 ### Class #3 (April 15): Beat reporting ###
+
+**Guest speaker**
+Joe Stephens, Ferris Professor of journalism at Princeton University and reporter for The Washington Post will show us how to read a non-profit organization's 990. He and Mary Pat Flaherty wrote the story listed for class.
 
 **Topics** Typical public affairs and specialty beats that the records that go with them / strategies for understanding and preparing for public records on your beat. Beats include: crime/courts; government and politics; business; health care; education
 
