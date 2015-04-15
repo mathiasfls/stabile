@@ -1,6 +1,13 @@
 # Week 3: Public records and beat reporting
 
-Look at the [lecture notes](lecturenotes.md) to see what we'll talk about, use this as your guide to public records.
+### Class
+* Joe Stephens, award-winning reporter for the Washington Post and expert on reporting on non-profits, will visit via Skype for the first hour of class to show us what we can learn from IRS 990 tax forms. These are key documents for reporting on universities, hospitals, charities and political organizations who are exempt from paying taxes.
+
+* Go through reading (though we can skip Joe's story)
+
+* Feedback on your spreadsheets: using secondary sources and social media. Should we? 
+
+* Go back over the concept of public records now that you see the difference, and how to write a public records request. 
 
 ### Handouts 
 
@@ -21,7 +28,11 @@ Look at the [lecture notes](lecturenotes.md) to see what we'll talk about, use t
 
 * Several repositories of public records can help you see what others have asked for, including [Muckrock](http://muckrock.com), the [National Security Archive](http://www2.gwu.edu/~nsarchive/nsa/foia.htm) and a new federal [FOIA web portal from EPA](http://foiaonline.regulations.gov/foia/action/public/home) that contains requests from several agencies 
 
-### Two examples, both federal
+* New York State public records help at the [Committee for Open Government](http://www.dos.ny.gov/coog/freedomfaq.html)
+
+### Three examples (one New York, two federal government) 
+
+* [A request for appearance enhancement establishment complaints and inspections](../resources/NYSFOIL.pdf), with the [notes](https://docs.google.com/a/columbia.edu/document/d/13q6Yu6S6u7BadX0H53cJ9nP1GMx24AEX4S4arUbS7A0/edit?usp=sharing) on the interview in which we found out what to ask for. 
 
 * A [simple request](aroostook.pdf?raw=true) for minutes of a meeting
 
