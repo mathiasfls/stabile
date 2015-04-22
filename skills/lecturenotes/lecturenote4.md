@@ -6,9 +6,8 @@
 	* How much do you expect back? 
 	* What do you think will be redacted or withheld?
 	* How could you improve your chances of getting it back? 
-
-
-Also, I realize I didn't go through the beat resources I had on the schedule last week. There is a handout in this week's folder on it. It also is addressed in a lot of the other handouts you've gotten this term.  
+	
+We'll discuss each one, since learning from one another is useful way to get broader experience.
 
 ## Review of reading
 
@@ -17,9 +16,13 @@ Also, I realize I didn't go through the beat resources I had on the schedule las
 * Discuss specific sections.
 
 ## Introduction to investigative projects 
-[Two](http://slides.com/sarahcnyt/columbia-skills) [presentations](http://slides.com/sarahcnyt/proving-an-investigative-hypothesis#/) that I failed to meld, based on changes to the platform. I'll get it into one good one then fix this link.  
+[Two](http://slides.com/sarahcnyt/columbia-skills) [presentations](http://slides.com/sarahcnyt/proving-an-investigative-hypothesis#/) that I failed to meld, based on changes to the platform.   
 
 * Overview of reporting for projects, both using traditional methods and empirical journalism.
+
+  Look at today's NYT - Jason Horowitz, a great biographer, has a piece on Ted Cruz's debate club at Princeton. Talk about how he looks for these kinds of stories -- a method that a lot of good reporters use, by looking for holes in what we know. A similar story is about a bullying incident during  [Mitt Romney](http://www.washingtonpost.com/politics/mitt-romneys-prep-school-classmates-recall-pranks-but-also-troubling-incidents/2012/05/10/gIQA3WOKFU_story.html)'s prep school school days. He said that in all the coverage of Romney, he had not seen anything that delved into that part of his life. The debate club fits that pattern, too. 
+  
+
 * Include "computer-assisted" reporting / data journalism as project reporting. 
 
 ## In class: Story ideas and review of final assignment
@@ -40,3 +43,4 @@ You should outline the story idea and the main example that prompted it (if ther
 > Public Records Contributions: 
 > The inspection information from OSHA and the building permits from NYC’s Building Department will tell me the details of whether the employers were in violation of safety in the workplace and if they were indeed responsible for the lives of the workers 
  
+Discuss.
