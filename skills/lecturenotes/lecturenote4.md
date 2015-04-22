@@ -16,7 +16,7 @@ We'll discuss each one, since learning from one another is useful way to get bro
 * Discuss specific sections.
 
 ## Introduction to investigative projects 
-[Two](http://slides.com/sarahcnyt/columbia-skills) [presentations](http://slides.com/sarahcnyt/proving-an-investigative-hypothesis#/) that I failed to meld, based on changes to the platform.   
+[Presentation from class](http://slides.com/sarahcnyt/columbia-masters/#/)  
 
 * Overview of reporting for projects, both using traditional methods and empirical journalism.
 
