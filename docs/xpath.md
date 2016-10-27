@@ -1,8 +1,3 @@
-<html>
-<title>Hello Strapdown</title>
-
-<xmp theme="spacelab" style="display:none;">
-
 # More on scraping
 
 ## more tools
@@ -119,8 +114,3 @@ Key XPath selectors are:
 
 	This says, for each of the 1st tds, look for div/font/input[1] -- he first input item (there are two). Then find the @click attribute, and take the 16 characters beginning at 23. To create the actual link, you can use concat("root html", your substring)
 
-
-</xmp>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
