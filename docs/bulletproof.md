@@ -7,7 +7,7 @@ May 1, 2014
 Here are some handouts on avoiding data errors in stories (all from IRE, so you'll need to sign in):
 
 * "Editing the data-driven story," by Maud Beelman of the Dallas Morning News:
-[http://http://ire.org/resource-center/tipsheets/4045/download/?fileid=3950](http://http://ire.org/resource-center/tipsheets/4045/download/?fileid=3950)><br><br>
+[http://ire.org/resource-center/tipsheets/4045/download/?fileid=3950](http://http://ire.org/resource-center/tipsheets/4045/download/?fileid=3950)><br><br>
 * DANGER! Look out for Dirty Data, by Jaimi Dowdell, IRE [http://ire.org/resource-center/tipsheets/3999/download/?fileid=3905](http://ire.org/resource-center/tipsheets/3999/download/?fileid=3905)<br><br>
 * "A Guide to Bulletproofing Your Data," by Jennifer LaFleur, now of the Center for Investigative Reporting: [http://ire.org/resource-center/tipsheets/3848/download/?fileid=3745](http://ire.org/resource-center/tipsheets/3848/download/?fileid=3745)
 
