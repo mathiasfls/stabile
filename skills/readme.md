@@ -4,7 +4,7 @@
 
 As of March 29, 2015
 
-### Class #1 (April 1): A documents state of mind###
+### Class #1 (April 1): A documents state of mind 
 
 **Topics**: A "documents state of mind" / The value of documents and data / Freedom of information laws
 
@@ -15,7 +15,7 @@ As of March 29, 2015
 
 **In class**: Introductions / Your life in records / Confirming claims through records.
 
-### Class #2 (April 8): Backgrounding on deadline ###
+### Class #2 (April 8): Backgrounding on deadline  
 
 **Topics**: Typical records used in backgrounding on deadline / what's online and what isn't / resources for finding records far away / mistaken identity and verification / the special case of court records, esp. in New York.
 
