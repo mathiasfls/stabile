@@ -6,8 +6,18 @@
     <li><a href="http://ire.org/resource-center/tipsheets/4215/download/?fileid=4177">IRE Tip Sheet #4177</a>, Another backgrounding handout from IRE and its companion, <a href="http://owh-projects.github.io/sandbox/levering/">The Omaha World Herald's</a> quest for the background of a crime family</a>
 	<li><a href="https://www.ire.org/resource-center/tipsheets/3238/">IRE Tip Sheet #3238</a>, “Ways to Trace Every Business,” Ron Campbell, 2010</li>
 	<li><a href="http://ire.org/resource-center/tipsheets/3716/">IRE Tip Sheet #3716</a>, "Uncovering the private parts of public figures", Doug Haddix, 2012</li>
-	<li><a href="https://dl.dropboxusercontent.com/u/26514347/panels/handouts/individual_record_tipsheet.pdf">Tip sheet</a> from the Stabile reporting program</li>
+	<li><a href="individual_record_tipsheet.pdf">Tip sheet</a> from the Stabile reporting program</li>
 </ul>
+
+
+### One approach
+
+Ask these questions about any person, company or property: 
+
+* What do they say about themselves? 
+* What do others say about them? 
+* What's missing from both accounts? 
+* What has been mischaracterized (on purpose or by accident)?
 
 <h3 style="border-bottom:solid">New York resources</h3>
 
