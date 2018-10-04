@@ -79,7 +79,7 @@ While reading these pieces, keep an eye on the kinds of proof used. What are the
 
 * Your 500-word profile of a person, building or institution based on public records and secondary research.
  
-###Class #5 (Wednesday, April 29): 
+### Class #5 (Wednesday, April 29): 
 Tradecraft /  mash-ups with data to add an empirical spine / More strategies for records requests.
 
 **Read *before* class (tentative):**
